@@ -109,9 +109,9 @@ footer {
   margin-top: 40px;
   color: rgb(71, 65, 141, 0.8);
 }
-.homework {
+#netlify {
   text-align: center;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 22px;
   color: rgb(71, 65, 141, 0.8);
 }
