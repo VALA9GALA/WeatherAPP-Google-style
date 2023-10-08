@@ -101,17 +101,17 @@ a:hover {
   top: -34px;
   margin-left: 5px;
 }
-footer {
-  text-align: center;
-  text-decoration: underline;
-  font-weight: 700;
-  font-size: 30px;
-  margin-top: 40px;
-  color: rgb(71, 65, 141, 0.8);
-}
+
 #netlify {
+  margin-top: 40px;
   text-align: center;
   font-weight: 700;
   font-size: 22px;
+  color: rgb(71, 65, 141, 0.8);
+}
+footer {
+  text-align: center;
+  font-weight: 700;
+  font-size: 16px;
   color: rgb(71, 65, 141, 0.8);
 }
